@@ -1,0 +1,94 @@
+body{
+	padding-top: 30px;
+}
+
+h1{font:35px Lithos Pro;}
+h2{font:30px Lithos Pro;}
+
+p{font:13px Lithos Pro;line-height: 1.7em;}
+
+.jumbotron{
+	margin: 0;
+	padding: 0;
+	background: #393d40;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+.all_services{
+	display: block;
+	margin-bottom: 50px;
+}
+
+.services{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: block;
+	overflow: hidden;
+	text-align: center;
+}
+
+.services a:link{
+	font:14px Lithos Pro;
+	color: #000;
+	display: block;
+	overflow: hidden;
+	padding: 10px 0px;
+	border-bottom: 1px dashed #c4c2bc;
+}
+
+.services a:visited{
+	color: #000;
+}
+
+.services a:hover{
+	text-decoration: none;
+	color: #156;
+}
+
+#news{
+	color:#fff;
+	margin-bottom: 50px;
+}
+
+#news h1{
+	color:#fff;
+}
+
+#news a:link{
+	font:16px Lithos Pro;
+	color: #fff;
+	display: block;
+	overflow: hidden;
+	padding: 10px 0px;
+	border-bottom: 1px dashed #807c7e;
+}
+
+#news a:visited{
+	color: #fff;
+}
+
+#news a:hover{
+	text-decoration: none;
+	color: #b154ff;
+}
+
+#news div{
+	font:12px Lithos Pro;
+	line-height: 1.9em;
+	margin: 15px 0px;
+}
+
+#contact{
+	color:#fff;
+}
+
+#contact h1{
+	color:#fff;
+}
+
+#contact p{
+	color:#fff;
+	font:12px Lithos Pro;
+}
